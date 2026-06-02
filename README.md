@@ -29,10 +29,13 @@ This project uses official INE survey data to explore what really happened, who 
 
 ![Unemployment by Gender](q3_gender.png)
 
+
+> 🗺️ The choropleth map is interactive —
+> [click here to explore it](https://abdelhakmorhlia01-hub.github.io/spain-epa-youth-unemployment-analysis/map.html)
+
 *For the full analysis with all charts, open the notebook.*
 
 ---
-
 ## Data
 
 All data comes from Spain's **Encuesta de Población Activa (EPA)**, the official quarterly labor force survey published by the Instituto Nacional de Estadística (INE).
