@@ -27,7 +27,7 @@ This project uses official INE survey data to explore what really happened, who 
 
 ## Visualization
 
-![Unemployment by Gender](images/q3_gender.png)
+![Unemployment by Gender](q3_gender.png)
 
 *For the full analysis with all charts, open the notebook.*
 
